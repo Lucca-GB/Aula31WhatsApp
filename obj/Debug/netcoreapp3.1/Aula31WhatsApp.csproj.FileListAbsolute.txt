@@ -1,0 +1,13 @@
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\bin\Debug\netcoreapp3.1\Aula31WhatsApp.exe
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\bin\Debug\netcoreapp3.1\Aula31WhatsApp.deps.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\bin\Debug\netcoreapp3.1\Aula31WhatsApp.runtimeconfig.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\bin\Debug\netcoreapp3.1\Aula31WhatsApp.runtimeconfig.dev.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\bin\Debug\netcoreapp3.1\Aula31WhatsApp.dll
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\bin\Debug\netcoreapp3.1\Aula31WhatsApp.pdb
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.csprojAssemblyReference.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.AssemblyInfoInputs.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.AssemblyInfo.cs
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.dll
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.pdb
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula30WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.genruntimeconfig.cache
